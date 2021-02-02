@@ -26,6 +26,12 @@
  |manali | 9 | 300$ |
  |meghalayas | 3 | 150$ |
  |himalayas | 4 | 250$ |
+ ---
+ # Pithy Quotes
+ > “ The purpose of our lives is to be happy.” — **Dalai Lama**.
+ > “ Get busy living or get busy dying.” — **Stephen King**.
  
+
+
 
 
