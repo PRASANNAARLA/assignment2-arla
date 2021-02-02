@@ -2,6 +2,7 @@
 # PRASANNA ARLA
 ###### NOODLES
 > Noodles are  **staple food** in many cultures made from unleavened dough. I like to have the because they are **slippery** and tastes very spicy and i love to have them.
+
 ![noodles](images/noodles.jpg)
 ---
 
@@ -27,6 +28,7 @@
  |manali | 9 | 300$ |
  |meghalaya | 3 | 150$ |
  |himalayas | 4 | 250$ |
+ 
  ![kashmir](images/kashmir.jpg)
  ![manali](images/manali.jpg)
  ![meghalaya](images/meghalaya.jpg)
