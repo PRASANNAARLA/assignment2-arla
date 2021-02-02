@@ -30,7 +30,7 @@
  |himalayas | 4 | 250$ |
  
  ![kashmir](images/kashmir.jpg)
- ![manali](images/manali.jpg)
+ ![manali](images/manalijpg.jpg)
  ![meghalaya](images/meghalaya.jpg)
  ![himalayas](images/himalayas.jpg)
   ---
