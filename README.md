@@ -2,6 +2,7 @@
 # PRASANNA ARLA
 ###### NOODLES
 > Noodles are  **staple food** in many cultures made from unleavened dough. I like to have the because they are **slippery** and tastes very spicy and i love to have them.
+![noodles](images/noodles.jpg)
 ---
 
 # sun rises in the east and sets in the west
@@ -24,9 +25,13 @@
  | :---: |:---: | :---: |
  |kashmir | 8 | 200$ |
  |manali | 9 | 300$ |
- |meghalayas | 3 | 150$ |
+ |meghalaya | 3 | 150$ |
  |himalayas | 4 | 250$ |
- ---
+ ![kashmir](images/kashmir.jpg)
+ ![manali](images/manali.jpg)
+ ![meghalaya](images/meghalaya.jpg)
+ ![himalayas](images/himalayas.jpg)
+  ---
  # Pithy Quotes
  > “ The purpose of our lives is to be happy.” — **Dalai Lama**.
 
