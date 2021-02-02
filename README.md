@@ -29,8 +29,9 @@
  ---
  # Pithy Quotes
  > “ The purpose of our lives is to be happy.” — **Dalai Lama**.
- > “ Get busy living or get busy dying.” — **Stephen King**.
  
+ > “ Get busy living or get busy dying.” — **Stephen King**.
+
 
 
 
