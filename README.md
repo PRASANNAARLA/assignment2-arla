@@ -35,9 +35,9 @@
  ![himalayas](images/himalayas.jpg)
   ---
  # Pithy Quotes
- > “ The purpose of our lives is to be happy.” — **Dalai Lama**.
+ > “ The purpose of our lives is to be happy.” — **Dalai Lama*.
 
- > “ Get busy living or get busy dying.” — **stephen king**.
+ > “ Get busy living or get busy dying.” — *Stephen King*.
 ---
 # code fencing
 > LiveScript is a functional programming language that compiles to JavaScript. It was created by Jeremy Ashkenas—the creator of CoffeeScript—along with Satoshi Muramaki, George Zahariev, and many others.
